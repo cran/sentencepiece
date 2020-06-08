@@ -1,7 +1,7 @@
-51d0f7edcea4fb2e661e7c258f45e0e2 *DESCRIPTION
+c5669fec7f052bb7a2ab168d6973376c *DESCRIPTION
 6ec4a39615897b53ed5211a944d253f5 *LICENSE.note
 93eddbd45a198df5f02c38a386421eda *NAMESPACE
-72fc96387cd481f873403c6ab65f7c07 *NEWS.md
+8ea183297a6dcf38c84d1684c440c4e5 *NEWS.md
 1c8c73ee4bbcc89c922e388d8e498ed9 *R/AAA.R
 d931964ce974d47a966a334a0daf601e *R/RcppExports.R
 ec3871838ac537bc78a3055a6841711f *R/bpemb.R
@@ -43,7 +43,7 @@ d34ef972d7b032a04999fd20265c5472 *src/sentencepiece/src/builtin_pb/sentencepiece
 e089f4bd304ef45d9502f1966e638cb9 *src/sentencepiece/src/char_model.cc
 eae65ec7175598d21000f1c2b0e26cc5 *src/sentencepiece/src/char_model.h
 11814bafdc98bcd23eb3393f76747e9b *src/sentencepiece/src/char_model_test.cc
-b24c54094a3817bc6eda565ca5fee3c6 *src/sentencepiece/src/char_model_trainer.cc
+d7557629f177a4640b903f7434bd10dd *src/sentencepiece/src/char_model_trainer.cc
 20bbc45cbd172f4945d0a8e58ea8d0e3 *src/sentencepiece/src/char_model_trainer.h
 63683cded3502b4669212ae804b7f7ed *src/sentencepiece/src/char_model_trainer_test.cc
 595a99f04f823bcfc302fe77a616c91a *src/sentencepiece/src/common.h
@@ -104,7 +104,7 @@ fb63a9d14b1eaec69d274f2b60c79083 *src/sentencepiece/src/util.cc
 068182f45ff61fb94c0e09a383a1e51c *src/sentencepiece/src/word_model.cc
 31a89e0264670f166e92ad2a0d6b39ea *src/sentencepiece/src/word_model.h
 4226bafb0cb3e7beeea25419c1df7bd0 *src/sentencepiece/src/word_model_test.cc
-9497c10b3c2d62575b6c747b4ace63dc *src/sentencepiece/src/word_model_trainer.cc
+d519cd769527ca9da4ebfccc5740f7e3 *src/sentencepiece/src/word_model_trainer.cc
 14783224302a4ec5e537ee99eba06eb3 *src/sentencepiece/src/word_model_trainer.h
 2e921607eddbf9770849952efce452cf *src/sentencepiece/src/word_model_trainer_test.cc
 4a64ed68b721146a2dcdd8d65000e717 *src/third_party/CMakeLists.txt
@@ -117,10 +117,10 @@ bb624cffc247f43fa7d2439676875de8 *src/third_party/absl/strings/string_view.h
 cdb2473959de3858c5faaed94fe8dc30 *src/third_party/protobuf-lite/arenastring.cc
 c8795e0dc92d2940ba8fe83faee688c8 *src/third_party/protobuf-lite/bytestream.cc
 63509514035f35cadb1898c1ee77c3a9 *src/third_party/protobuf-lite/coded_stream.cc
-78978e08f1547ad45f5f657c88f68c5f *src/third_party/protobuf-lite/common.cc
+f7eca8ea0dc19ff79102706636d4a4bb *src/third_party/protobuf-lite/common.cc
 831ff256338d26f16e6adf7924b82024 *src/third_party/protobuf-lite/extension_set.cc
 080986654c1b7179ce36340c1564a406 *src/third_party/protobuf-lite/generated_message_table_driven_lite.cc
-29dd607988c20dd7877c717ce728130c *src/third_party/protobuf-lite/generated_message_util.cc
+5b56fd230ac04871dbe2c626149f865c *src/third_party/protobuf-lite/generated_message_util.cc
 27c3d8ab4b1319ab9fe45a8a2dcdd925 *src/third_party/protobuf-lite/google/protobuf/arena.h
 0abb6ae34b625ea84ada205114e94998 *src/third_party/protobuf-lite/google/protobuf/arena_impl.h
 d1866c579072dad7306b1cc6f8107800 *src/third_party/protobuf-lite/google/protobuf/arenastring.h
