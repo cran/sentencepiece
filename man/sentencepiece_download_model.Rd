@@ -14,7 +14,7 @@ sentencepiece_download_model(
 \arguments{
 \item{language}{a character string with the language name. This can be either a plain language or a wikipedia shorthand. \cr
 Possible values can be found by looking at the examples or typing sentencepiece:::.bpemb$languages \cr
-If you provide multi it downloads the multilingual model available at \url{https://nlp.h-its.org/bpemb/multi}}
+If you provide multi it downloads the multilingual model available at \url{https://bpemb.h-its.org/multi/}}
 
 \item{vocab_size}{integer indicating the number of tokens in the final vocabulary. Defaults to 5000. Possible values depend on the language. To inspect possible values, type sentencepiece:::.bpemb$vocab_sizes and look to your language of your choice.}
 
@@ -31,12 +31,13 @@ a list with elements
 \item{url: the url where the Sentencepiece model was fetched from}
 \item{download_failed: logical, indicating if the download failed}
 \item{download_message: a character string with possible download failure information}
-\item{glove: a list with elements file_model, url, download_failed and download_message indicating the path to the Glove embeddings. Only present if the dim argument is provided in the function. Otherwise the embeddings will not be downloaded}
+\item{glove: a list with elements file_model, url, download_failed and download_message indicating the path to the Glove embeddings in txt format. Only present if the dim argument is provided in the function. Otherwise the embeddings will not be downloaded}
+\item{glove.bin: a list with elements file_model, url, download_failed and download_message indicating the path to the Glove embeddings in bin format. Only present if the dim argument is provided in the function. Otherwise the embeddings will not be downloaded}
 }
 }
 \description{
 Download pretrained models built on Wikipedia
-made available at \url{https://nlp.h-its.org/bpemb} through \url{https://github.com/bheinzerling/bpemb}. 
+made available at \url{https://bpemb.h-its.org} through \url{https://github.com/bheinzerling/bpemb}. 
 These models contain Byte Pair Encoded models trained with sentencepiece as well
 as Glove embeddings of these Byte Pair subwords. Models for 275 languages are available.
 }
