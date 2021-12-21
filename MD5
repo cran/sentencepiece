@@ -1,7 +1,7 @@
-a8a17fd9217eaec50a404d3b5235ce62 *DESCRIPTION
+4c20153de4a324d16b12d391f9508f1d *DESCRIPTION
 54e27284406c6d9f736e1a4b80960e51 *LICENSE.note
 590ba8ba504e79a4a848ee7da8c1dd20 *NAMESPACE
-eb2eae55b28a1246cc07f294cf8f633a *NEWS.md
+7d510a65530e25221badfb8c57447f96 *NEWS.md
 1c8c73ee4bbcc89c922e388d8e498ed9 *R/AAA.R
 f8e6a88a0c8cdbcab876c90c7422e0fb *R/RcppExports.R
 11ca321d521074e5d9207d9a5218efb3 *R/bpemb.R
@@ -100,7 +100,7 @@ f66556e20b16a11e0d4095e13b96c5c3 *src/sentencepiece/src/trainer_factory.h
 ddb5285290a5a3f99860decff3e504e8 *src/sentencepiece/src/trainer_interface.h
 d26658985c8c26faa1463c457f34c24d *src/sentencepiece/src/trainer_interface_test.cc
 4ff66f262bb8a7618b17d0b6e61e901d *src/sentencepiece/src/unicode_script.cc
-e7ee7cbda43812b7515329cc7c49e28a *src/sentencepiece/src/unicode_script.h
+09e2066c226830e68434346ab24372ae *src/sentencepiece/src/unicode_script.h
 2da5796268dc5cc2b36cefdff40ae27f *src/sentencepiece/src/unicode_script_map.h
 69eecf0c55253fbd00807c8602360a16 *src/sentencepiece/src/unicode_script_test.cc
 a4d276f2cdf70e8d0f9c876c24bf0b5b *src/sentencepiece/src/unigram_model.cc

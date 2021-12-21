@@ -1,7 +1,7 @@
 Package: sentencepiece
 Type: Package
 Title: Text Tokenization using Byte Pair Encoding and Unigram Modelling
-Version: 0.2
+Version: 0.2.1
 Authors@R: c(
     person('Jan', 'Wijffels', role = c('aut', 'cre', 'cph'), email = 'jwijffels@bnosac.be', comment = "R wrapper"), 
     person('BNOSAC', role = 'cph', comment = "R wrapper"), 
@@ -37,7 +37,7 @@ Imports: Rcpp (>= 0.11.5), stats
 Suggests: tokenizers.bpe, word2vec (>= 0.2.0)
 LinkingTo: Rcpp
 NeedsCompilation: yes
-Packaged: 2021-12-13 08:41:05 UTC; Jan
+Packaged: 2021-12-21 12:39:17 UTC; Jan
 Author: Jan Wijffels [aut, cre, cph] (R wrapper),
   BNOSAC [cph] (R wrapper),
   Google Inc. [ctb, cph] (Files at src/sentencepiece/src (Apache License,
@@ -122,4 +122,4 @@ Author: Jan Wijffels [aut, cre, cph] (R wrapper),
     data/models/nl.wiki.bpe.vs1000.d25.w2v.bin and
     data/models/nl.wiki.bpe.vs1000.model (MIT License))
 Repository: CRAN
-Date/Publication: 2021-12-14 23:00:03 UTC
+Date/Publication: 2021-12-21 16:00:02 UTC
