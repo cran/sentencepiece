@@ -1,7 +1,7 @@
-4c20153de4a324d16b12d391f9508f1d *DESCRIPTION
+991e52af0cdda64cc1d031ee2a113567 *DESCRIPTION
 54e27284406c6d9f736e1a4b80960e51 *LICENSE.note
 590ba8ba504e79a4a848ee7da8c1dd20 *NAMESPACE
-7d510a65530e25221badfb8c57447f96 *NEWS.md
+10359df5052c2c685fc973947bf01891 *NEWS.md
 1c8c73ee4bbcc89c922e388d8e498ed9 *R/AAA.R
 f8e6a88a0c8cdbcab876c90c7422e0fb *R/RcppExports.R
 11ca321d521074e5d9207d9a5218efb3 *R/bpemb.R
@@ -211,7 +211,7 @@ a151e62d7d0445edaf6a0dd5c34e4375 *src/third_party/protobuf-lite/statusor.cc
 7abd43985036b1b1c8f37ded922627a1 *src/third_party/protobuf-lite/stringpiece.cc
 111edd2fa88f6f0ae13a3b26f40203eb *src/third_party/protobuf-lite/stringprintf.cc
 2ad6dedd1378e1e540463d9557a30e7e *src/third_party/protobuf-lite/structurally_valid.cc
-8ad6038741c1ae4565fd3e56db77a08a *src/third_party/protobuf-lite/strutil.cc
+f16030ab1975267ce88e8dd014692879 *src/third_party/protobuf-lite/strutil.cc
 854c0ca485b13ccd8dcef57b4281aa40 *src/third_party/protobuf-lite/time.cc
 c47086cb7ae55f65c46b02c33b11a893 *src/third_party/protobuf-lite/wire_format_lite.cc
 be8dce54dfb993a645b32cb6411a3292 *src/third_party/protobuf-lite/zero_copy_stream.cc

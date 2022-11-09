@@ -1,7 +1,7 @@
 Package: sentencepiece
 Type: Package
 Title: Text Tokenization using Byte Pair Encoding and Unigram Modelling
-Version: 0.2.1
+Version: 0.2.2
 Authors@R: c(
     person('Jan', 'Wijffels', role = c('aut', 'cre', 'cph'), email = 'jwijffels@bnosac.be', comment = "R wrapper"), 
     person('BNOSAC', role = 'cph', comment = "R wrapper"), 
@@ -31,13 +31,13 @@ Description: Unsupervised text tokenizer allowing to perform byte pair encoding 
 URL: https://github.com/bnosac/sentencepiece
 License: MPL-2.0
 Encoding: UTF-8
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 Depends: R (>= 2.10)
 Imports: Rcpp (>= 0.11.5), stats
 Suggests: tokenizers.bpe, word2vec (>= 0.2.0)
 LinkingTo: Rcpp
 NeedsCompilation: yes
-Packaged: 2021-12-21 12:39:17 UTC; Jan
+Packaged: 2022-11-08 22:35:06 UTC; jwijf
 Author: Jan Wijffels [aut, cre, cph] (R wrapper),
   BNOSAC [cph] (R wrapper),
   Google Inc. [ctb, cph] (Files at src/sentencepiece/src (Apache License,
@@ -122,4 +122,4 @@ Author: Jan Wijffels [aut, cre, cph] (R wrapper),
     data/models/nl.wiki.bpe.vs1000.d25.w2v.bin and
     data/models/nl.wiki.bpe.vs1000.model (MIT License))
 Repository: CRAN
-Date/Publication: 2021-12-21 16:00:02 UTC
+Date/Publication: 2022-11-09 08:00:02 UTC
