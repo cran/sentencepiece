@@ -1,7 +1,7 @@
-cf6b2fb3789ad3ac0abb876f1f452b33 *DESCRIPTION
+abe8475da1f1a3c3a52210b9783b76ed *DESCRIPTION
 54e27284406c6d9f736e1a4b80960e51 *LICENSE.note
 590ba8ba504e79a4a848ee7da8c1dd20 *NAMESPACE
-cd8053407c51a2b369377124c3de8be2 *NEWS.md
+722c20ddded808855a71f045ccee353e *NEWS.md
 1c8c73ee4bbcc89c922e388d8e498ed9 *R/AAA.R
 f8e6a88a0c8cdbcab876c90c7422e0fb *R/RcppExports.R
 11ca321d521074e5d9207d9a5218efb3 *R/bpemb.R
@@ -28,7 +28,7 @@ dbdd0efc9d7207c2d577258f83adfd75 *man/sentencepiece_encode.Rd
 9f6c2d1b6a63ae9d14d316fde8473962 *man/sentencepiece_load_model.Rd
 96760f2f6455cd8b26f0ac65b425dcd6 *man/txt_remove_.Rd
 8c6d9c6a2c2785133bf5941ccdbe6c9e *man/wordpiece_encode.Rd
-2bc83cbbd1e8f17d996c92929e4fa286 *src/Makevars
+eae08186d6e848d8b887d3e9cf5507d3 *src/Makevars
 e4cd5b765a1ee35f2dac05fb4e61b20d *src/RcppExports.cpp
 c53d4ef2c232b7691fba2ebc36a58593 *src/config.h
 8fa4f8cc600c15443474c2dd78e9ff47 *src/rcpp_sentencepiece.cpp
@@ -177,7 +177,7 @@ c47a53c5b23548fa0a1e92673a6a66e6 *src/third_party/protobuf-lite/google/protobuf/
 ad8d2af6dd45a3a9f6d96869901f33e6 *src/third_party/protobuf-lite/google/protobuf/port.h
 b4e28a2163ea9c86664d7a27b2fc379e *src/third_party/protobuf-lite/google/protobuf/port_def.inc
 da8bb1122bae8c547c621c519d261d97 *src/third_party/protobuf-lite/google/protobuf/port_undef.inc
-96faebe5552d199a676f6bbd8441ee4d *src/third_party/protobuf-lite/google/protobuf/repeated_field.h
+d873203f112ea97834c841ff655e975f *src/third_party/protobuf-lite/google/protobuf/repeated_field.h
 3272ae15507b8d90c6d95abb270ae260 *src/third_party/protobuf-lite/google/protobuf/stubs/bytestream.h
 ef2a5ae790f4ab3b102355f3ad6874bb *src/third_party/protobuf-lite/google/protobuf/stubs/callback.h
 87b1ea114ff0c795399a157ecc046858 *src/third_party/protobuf-lite/google/protobuf/stubs/casts.h
